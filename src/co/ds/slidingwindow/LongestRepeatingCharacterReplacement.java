@@ -1,5 +1,11 @@
 package co.ds.slidingwindow;
 
+/**
+ * Date 10/19/2022
+ * @author Harsh Jain
+ *
+ * Problem Link: https://leetcode.com/problems/longest-repeating-character-replacement/
+ */
 public class LongestRepeatingCharacterReplacement {
     /*
         Brute Force Approach:
