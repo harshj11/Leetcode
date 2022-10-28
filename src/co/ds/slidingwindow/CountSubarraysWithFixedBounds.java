@@ -1,5 +1,11 @@
 package co.ds.slidingwindow;
 
+/**
+ * Date 10/22/2022
+ * @author Harsh Jain
+ *
+ * Problem Link: https://leetcode.com/problems/count-subarrays-with-fixed-bounds/
+ */
 public class CountSubarraysWithFixedBounds {
     /*
         Sliding window approach.

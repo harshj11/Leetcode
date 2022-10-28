@@ -1,5 +1,11 @@
 package co.ds.slidingwindow;
 
+/**
+ * Date 10/21/2022
+ * @author Harsh Jain
+ *
+ * Problem Link: https://leetcode.com/problems/subarray-product-less-than-k/
+ */
 public class SubarrayProductLessThanK {
     /*
         Binary Search Logarithm Approach.(From Leetcode solution section, Awesome!)
